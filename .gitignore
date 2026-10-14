@@ -1,0 +1,8 @@
+.env
+__pycache__/
+.venv/
+data/uploads/
+data/qdrant/
+data/app.db
+node_modules/
+.next/
